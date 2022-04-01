@@ -58,14 +58,14 @@ require (
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.7.0.20210223165440-c65ae3540d44
 	github.com/shurcooL/httpfs v0.0.0-20190707220628-8d4bc4ba7749
 	github.com/shurcooL/vfsgen v0.0.0-20200824052919-0d455de96546
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.26.1
-	go.opentelemetry.io/otel v1.2.0
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.2.0
+	go.opentelemetry.io/otel v1.6.1
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.6.1
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.2.0
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.2.0
-	go.opentelemetry.io/otel/sdk v1.2.0
-	go.opentelemetry.io/otel/trace v1.2.0
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.6.1
+	go.opentelemetry.io/otel/sdk v1.6.1
+	go.opentelemetry.io/otel/trace v1.6.1
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
 	golang.org/x/net v0.0.0-20220105145211-5b0dc2dfae98
@@ -76,8 +76,8 @@ require (
 	golang.org/x/tools v0.1.9-0.20211209172050-90a85b2969be
 	google.golang.org/api v0.64.0
 	google.golang.org/genproto v0.0.0-20211223182754-3ac035c7e7cb
-	google.golang.org/grpc v1.42.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/grpc v1.45.0
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
